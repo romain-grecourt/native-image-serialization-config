@@ -47,3 +47,6 @@ See also the following files (remove the `.txt` extension to use them):
 - `reflect-config.json.txt`
 - `serialization-config.json.txt`.
 
+## TODO
+
+- Does native-image do implicit reflection registration when using serialization filters?
